@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreMicroservicesTemplate", "DotNetCoreMicroservicesTemplate\DotNetCoreMicroservicesTemplate.csproj", "{ECE6FE76-C297-40F2-8A6D-00F99A184423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE6FE76-C297-40F2-8A6D-00F99A184423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE6FE76-C297-40F2-8A6D-00F99A184423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE6FE76-C297-40F2-8A6D-00F99A184423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE6FE76-C297-40F2-8A6D-00F99A184423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04097C0F-5984-4148-9CE0-A0B0F21A2C09}
+	EndGlobalSection
+EndGlobal
